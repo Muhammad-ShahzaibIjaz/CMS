@@ -38,7 +38,7 @@ To get started with the CMS application, follow the steps below.
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/cms.git
+   git clone https://github.com/Muhammad-ShahzaibIjaz/CMS.git
 
 2. Navigate to the project repository:
     ```bash
